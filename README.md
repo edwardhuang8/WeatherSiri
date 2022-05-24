@@ -1,4 +1,4 @@
-Hayool, Edward, Anika, Caroline Stage 1: Proposal
+Hayool, Edward, Anika, Caroline Proposal
 
 A proposal for a project requires at least three students, with at least one student from each block! (This will require you to utilize GitHub and learn about branches, commits, and pulls.) The proposal must address each of the following:
 
